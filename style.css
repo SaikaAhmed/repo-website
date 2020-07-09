@@ -1,0 +1,19 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h2 {
+    font-size: 30px;
+}
+/* nav */
+.navbar-brand {
+    font-size: 30px;
+}
+.container {
+    position: sticky;
+    margin-bottom: 100px;
+
+}
+#navbarNav {
+    margin-bottom: auto;
+}
+/* nav end */
